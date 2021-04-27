@@ -1,0 +1,14 @@
+#page-map aside p{
+    line-height: 28px;
+    margin-top: 24px;
+}
+
+#page-map aside footer{
+    display: flex;
+    flex-direction: column;
+    line-height: 24px;
+}
+
+#page-map aside footer strong{
+    font-weight: 800;
+}
